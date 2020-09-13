@@ -32,7 +32,7 @@ This program allows the user to take notes with a title for each note and delete
 
 # History
 
-https://github.com/johnnylieu/Template-Engine---Employee-Summary/commits/master
+https://github.com/johnnylieu/Note_Taker/commits/master
 
 
 # Credits
